@@ -1,10 +1,5 @@
-# CSIS 3380-002 Real Estate MERN Stack App
+# Real Estate MERN Stack App
 
-## Group Information
-
-#### Veronica Cheng (300350692)
-
-#### Jacky Li (300353646)
 
 #
 
